@@ -24,6 +24,11 @@
 
 ## Description
 
+Hi, what you need to know.
+1. Need to have a connect to the database. (mysql). The connect options are in the app.module file.
+2. I have created Swagger documentation. Here is the path "http://localhost:3000/swaggerApi#/" This is just an outline. 
+3. All users can only be queried by an authorized user. 
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
